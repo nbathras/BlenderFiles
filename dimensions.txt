@@ -1,0 +1,6 @@
+Mob City Notes:
+
+Building Block Scale:
+1. Plane
+2. Scale * 10
+3. Extrude top face * .1
